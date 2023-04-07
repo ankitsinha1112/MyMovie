@@ -1,0 +1,50 @@
+@media screen and (max-width: 767px) {
+   .my-5 h2,.my-3{
+        font-size: 24px;
+   }
+   .my-5 h4{
+        font-size: 12px;
+   }
+   .card-body h3{
+        font-size: 14px !important;
+   }
+   .plus{
+        width: 1rem !important;
+        height: 1rem !important;
+   }
+   .card{
+        width: 85% !important;
+   }
+   .answer{
+        font-size: 12px !important;
+        text-align: justify !important;
+   }
+   .answer2{
+        font-size: 12px !important;
+        text-align: justify !important;
+   }
+   .faq-content .answer2 {
+     padding-right: 20px;
+   }
+  }
+@media screen and (max-width: 420px) {
+   .my-5 h2,.my-3{
+        font-size: 20px;
+   }
+   .my-5 h4{
+        font-size: 10px;
+   }
+   .card-body h3{
+        font-size: 12px !important;
+   }
+   .plus{
+        width: 0.8rem !important;
+        height: 0.8rem !important;
+   }
+   .card{
+        width: 90% !important;
+   }
+   .answer{
+        font-size: 10px !important;
+   }
+  }
